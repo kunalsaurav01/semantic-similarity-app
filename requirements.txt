@@ -1,0 +1,12 @@
+# Web Server
+Flask
+gunicorn
+
+# Machine Learning & NLP
+sentence-transformers
+torch
+torchvision
+torchaudio
+
+# Data Handling
+pandas
